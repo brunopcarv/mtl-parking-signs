@@ -7,4 +7,7 @@ This is a guide to generate a visualization of the parking signs in Montreal.
 2. Upload it on http://geojson.tools/ for visualization.
 
 
-TODO: Code your own geojson viewer and make it publicly available.
+PROJECT SCOPE: 
+1. Code your own geojson browser viewer. 
+2. 
+2. Make it publicly available.
