@@ -1,6 +1,6 @@
 # Mtl Parking Signs
 
-This is a guide to generate a visualization of the parking signs in Montreal.
+Visualization of Montreal parking signs..
 
 1. Download Montreal sign data file "signalisation_stationnement.geojson".
 
@@ -8,6 +8,6 @@ This is a guide to generate a visualization of the parking signs in Montreal.
 
 
 PROJECT SCOPE: 
-1. Code your own geojson browser viewer. 
+1. Code geojson browser viewer. 
 
-2. Make it publicly available.
+2. Set up a web server.
