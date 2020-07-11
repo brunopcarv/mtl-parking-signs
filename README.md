@@ -8,6 +8,6 @@ Visualization of Montreal parking signs..
 
 
 PROJECT SCOPE: 
-1. Code geojson browser viewer. 
+1. Code geojson browser viewer app. 
 
-2. Set up a web server.
+2. Place "signalisation_stationnement.geojson" in a public server.
