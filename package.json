@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "joi": "^17.3.0",
+    "react-native-threads": "^0.0.19"
+  }
+}
