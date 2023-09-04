@@ -1,13 +1,15 @@
-# Mtl Parking Signs
+# Mtl Stationnement
 
-Visualization of Montreal parking signs..
+How to visualize Montreal Stationnement signs while the project isn't completed?
 
-1. Download Montreal sign data file "signalisation_stationnement.geojson".
+1. Download the Montreal Stationnement signs data file "signalisation_stationnement.geojson" from [mtl open data](https://donnees.montreal.ca/dataset/stationnement-sur-rue-signalisation-courant).
 
-2. Upload it on http://geojson.tools/ for visualization.
+2. Upload it to http://geojson.tools/ for visualizing it.
 
 
 PROJECT SCOPE: 
-1. Code geojson browser viewer app. 
+1. Code map viewer app. 
 
-2. Place "signalisation_stationnement.geojson" in a public server.
+2. Crunch "signalisation_stationnement.geojson" data and place it into a postgresql db (postGIS).
+
+3. Make an API to fetch data using postGIS queries.
